@@ -1,6 +1,6 @@
 # Amanda Chan
 
-I make LLM agents trustworthy to delegate to: I validate the measurement before trusting the number, and I never let the agent doing the work certify it.
+I make LLM agents trustworthy to delegate to: I validate the measurement before trusting the number.
 
 - [Agent Rule of Law](https://github.com/amandachan-ai/agent-rule-of-law): governing delegation in coding agents (experiment designed, not yet run)
 - [The GAVEL Laws](https://github.com/amandachan-ai/gavel-laws): Goal fixed first · Authority flows down · Verdict by another · Every error has a way back · Ledger is append-only
