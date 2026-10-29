@@ -8,6 +8,6 @@ I make LLM agents trustworthy to delegate to: I validate the measurement before 
 - [Your Eval Is Lying](https://github.com/amandachan-ai/your-eval-is-lying): failure modes of LLM measurement itself
 - [Agent Harness Playbook](https://github.com/amandachan-ai/agent-harness-playbook): layering rules, knowledge, workflows and capabilities in agent harnesses
 
-[LinkedIn](https://www.linkedin.com/in/amanda-chan-ai)
+[Website](https://amandachan-ai.github.io) · [LinkedIn](https://www.linkedin.com/in/amanda-chan-ai)
 
 Text in this repository is licensed under [CC BY 4.0](LICENSE).
